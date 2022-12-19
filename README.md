@@ -1,6 +1,6 @@
 # bukkenoh_wiki_en
 
-# BUKKENOH GUIDE
+# Bukkenoh Guide
 
 ## Introduction
 
