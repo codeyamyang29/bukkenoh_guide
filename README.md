@@ -23,11 +23,11 @@ If the person in charge finished checking the status will be set to " Closed "
 
 🟠   Project Key - The ID for the project. 
 
-*   Wiki - Where the env config can be found.
+🔴   Wiki - Where the env config can be found.
 
-*   Files - Where the image and the design data are located.
+🔵   Files - Where the image and the design data are located.
 
-*   Git- Where the source code link is located. You can view your branch changes.
+🟢   Git- Where the source code link is located. You can view your branch changes.
 
 ![image info](./images/img_backlog_interface.jpg)
 
