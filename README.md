@@ -10,7 +10,7 @@ The working task is registered in the backlog. The person in charge is the one w
 
 ### When Starting
 
-🔵 Change the status from " Open " to " Progress ".
+🔵 Change the status from " Open " to " Progress "
 
 ### When Confirming | Checking
 
