@@ -13,12 +13,12 @@ Working task is register in backlog. The person in charge is the one who will se
 
 __When Starting__
 
-🔵 : Change the status from " <span style="color:#ED8077; font-weight: bold">Open</span> " to " <span style="color:#4488C5; font-weight: bold">In Progress</span> ".
+🔵 Change the status from " <span style="color:#ED8077; font-weight: bold">Open</span> " to " <span style="color:#4488C5; font-weight: bold">In Progress</span> ".
 
 __When Confirming | Checking__
 
-:green_circle: Change the status from " <span style="color:#4488C5; font-weight: bold">In Progress</span>" to " <span style="color:#5EB5A6; font-weight: bold">Resolved</span>  "<br/>
-:green_circle: Change the assignee from " yourname " to " person in charge "
+🟢 Change the status from " <span style="color:#4488C5; font-weight: bold">In Progress</span>" to " <span style="color:#5EB5A6; font-weight: bold">Resolved</span>  "<br/>
+🟢 Change the assignee from " yourname " to " person in charge "
 
 If the person in charge finished checking the status will be set to " <span style="color:#A1AF2F; font-weight: bold">Closed</span> "
 
