@@ -10,12 +10,12 @@ The working task is registered in the backlog. The person in charge is the one w
 
 ### When Starting
 
-🔵 Change the status from " Open " to " Progress "
+* Change the status from " Open " to " Progress "
 
 ### When Confirming | Checking
 
-🟢 Change the status from " In Progress " to " Resolved "<br/>
-🟢 Change the assignee from " Your Name " to " Person in Charge "
+* Change the status from " In Progress " to " Resolved "
+* Change the assignee from " Your Name " to " Person in Charge "
 
 If the person in charge finished checking the status will be set to " Closed "
 
