@@ -8,16 +8,16 @@ To minimize confusion when tackling unknown characters in the code and to unify 
 ### Backlog Basics
 The working task is registered in the backlog. The person in charge is the one who will set the project deadline and the last person to confirm the project completion.
 
-__When Starting__
+### When Starting
 
-🔵 Change the status from " <span style="color:#ED8077; font-weight: bold">Open</span> " to " <span style="color:#4488C5; font-weight: bold">In Progress</span> ".
+🔵 Change the status from " Open " to " Progress ".
 
-__When Confirming | Checking__
+### When Confirming | Checking
 
-🟢 Change the status from " <span style="color:#4488C5; font-weight: bold">In Progress</span>" to " <span style="color:#5EB5A6; font-weight: bold">Resolved</span>  "<br/>
-🟢 Change the assignee from " yourname " to " person in charge "
+🟢 Change the status from " In Progress " to " Resolved "<br/>
+🟢 Change the assignee from " Your Name " to " Person in Charge "
 
-If the person in charge finished checking the status will be set to " <span style="color:#A1AF2F; font-weight: bold">Closed</span> "
+If the person in charge finished checking the status will be set to " Closed "
 
 ### Backlog Interface
 
@@ -25,18 +25,18 @@ If the person in charge finished checking the status will be set to " <span styl
 
 *   Wiki - Where the env config can be found.
 
-*   Files - Where the image and the design data is located.
+*   Files - Where the image and the design data are located.
 
 *   Git- Where the source code link is located. You can view your branch changes.
 
 ![image info](./images/img_wiki_backlog_interface.png)
 
 ### Coding Basics
-When the status in the backlog in change to In Progress. You can start working with the task. Usually the task list will look like below.
+When the status in the backlog is changed to In Progress. You can start working on the task. Usually, the task list will look like below.
 
 ```
 
-Project : U0314
+Project: U0314
 |__ Parent Task ( ex. U0314-01 )
     |_ Child Task - Partslist  ( ex. U0314-02 )
     |_ Child Task - Top Page   ( ex. U0314-03 )
