@@ -1,14 +1,14 @@
 # Bukkenoh Guide
 
-## Introduction
+### Introduction
 
 This guide is for english employees.
 
-## Purpose
+### Purpose
 
 To minimize confusion when tackling unknown character in the code and to unify the project structure.
 
-## Backlog Basics
+### Backlog Basics
 Working task is register in backlog. The person in charge is the one who will set the project deadline and the last person to confirm the project completion.
 
 __When Starting__
@@ -34,7 +34,7 @@ If the person in charge finished checking the status will be set to " <span styl
 
 ![image info](./images/img_wiki_backlog_interface.png)
 
-## Coding Basics
+### Coding Basics
 When the status in the backlog in change to In Progress. You can start working with the task. Usually the task list will look like below.
 
 ```
