@@ -1,13 +1,12 @@
 # Bukkenoh Guide
 
-### Introduction
-This guide is for english employees.
+### Introduction & Purpose
 
-### Purpose
-To minimize confusion when tackling unknown character in the code and to unify the project structure.
+This guide is for English employees.<br/>
+To minimize confusion when tackling unknown characters in the code and to unify the project structure.
 
 ### Backlog Basics
-Working task is register in backlog. The person in charge is the one who will set the project deadline and the last person to confirm the project completion.
+The working task is registered in the backlog. The person in charge is the one who will set the project deadline and the last person to confirm the project completion.
 
 __When Starting__
 
