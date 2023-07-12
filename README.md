@@ -29,7 +29,7 @@ If the person in charge finished checking the status will be set to " Closed "
 
 *   Git- Where the source code link is located. You can view your branch changes.
 
-![image info](./images/img_wiki_backlog_interface.png)
+![image info](./img_backlog_interface.jpg)
 
 ### Coding Basics
 When the status in the backlog is changed to In Progress. You can start working on the task. Usually, the task list will look like below.
