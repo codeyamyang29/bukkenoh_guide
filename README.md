@@ -1,11 +1,9 @@
 # Bukkenoh Guide
 
 ### Introduction
-
 This guide is for english employees.
 
 ### Purpose
-
 To minimize confusion when tackling unknown character in the code and to unify the project structure.
 
 ### Backlog Basics
