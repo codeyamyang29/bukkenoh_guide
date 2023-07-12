@@ -79,7 +79,7 @@ Requirements:
 
 1. Clone the remote repository ( Prepared by Technical staff from property king )
 2. The ( Assign Coder ) must checkout the __staging branch__ of the remote repository.
-3. Create a new branch using the Issued Key as the name of the branch. :pushpin: __Note:__ when creating a new branch make sure you are creating it from the checked out __staging branch__.
+3. Create a new branch using the Issued Key as the name of the branch.<br/> :pushpin: __Note:__ when creating a new branch make sure you are creating it from the checked out __staging branch__.
 4. Work on the issue mentioned in the Issue Page.
 5. When finish, stage and commit all the changes made from the Issue-handling Branch to the remote repository.
 6. Create a __PR__ or __Pull Request__ from the issued branch to staging.
